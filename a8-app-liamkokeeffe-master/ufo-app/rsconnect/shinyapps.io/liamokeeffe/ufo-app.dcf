@@ -1,0 +1,12 @@
+name: ufo-app
+title:
+username:
+account: liamokeeffe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 591312
+bundleId: 1724465
+url: https://liamokeeffe.shinyapps.io/ufo-app/
+when: 1543355677.49251
+asMultiple: FALSE
+asStatic: FALSE
